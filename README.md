@@ -66,7 +66,7 @@ Entering REPL. Use Control-X to exit.
 >
 ```
 
-Use a combinação de teclas 'Ctrl + D' ou pressione uma única vez o botão laterial esquerdo para dar 'soft reboot'
+Use a combinação de teclas 'Ctrl + D' ou pressione uma única vez o botão laterial esquerdo para realizar 'soft reboot'
 
 ```
 MicroPython v1.11-321-gac7da0a70-dirty on 2020-02-25; ESP32 module with ESP32
